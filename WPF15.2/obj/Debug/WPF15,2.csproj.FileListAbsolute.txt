@@ -1,0 +1,7 @@
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\WPF15,2.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\WPF15,2_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\WPF15,2_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\WPF15,2.exe
+C:\Users\nanig\source\repos\RG\WPF15\WPF15,2\obj\Debug\WPF15,2.pdb

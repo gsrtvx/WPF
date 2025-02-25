@@ -1,0 +1,15 @@
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\bin\Debug\WPF14.exe.config
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\bin\Debug\WPF14.exe
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\bin\Debug\WPF14.pdb
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\MainWindow.baml
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.g.resources
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.Properties.Resources.resources
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.csproj.GenerateResource.cache
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.csproj.CoreCompileInputs.cache
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.exe
+C:\Users\nanig\source\repos\RG\WPF14\WPF14\obj\Debug\WPF14.pdb

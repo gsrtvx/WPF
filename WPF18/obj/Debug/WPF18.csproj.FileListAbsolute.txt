@@ -1,0 +1,15 @@
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\bin\Debug\WPF18.exe.config
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\bin\Debug\WPF18.exe
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\bin\Debug\WPF18.pdb
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\MainWindow.baml
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.g.resources
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.Properties.Resources.resources
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.csproj.GenerateResource.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.csproj.CoreCompileInputs.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.exe
+C:\Users\nanig\source\repos\RG\WPF18\WPF18\obj\Debug\WPF18.pdb

@@ -1,0 +1,15 @@
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\bin\Debug\WPF18.2.exe.config
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\bin\Debug\WPF18.2.exe
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\bin\Debug\WPF18.2.pdb
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\MainWindow.baml
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.g.resources
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18._2.Properties.Resources.resources
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.csproj.GenerateResource.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.csproj.CoreCompileInputs.cache
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.exe
+C:\Users\nanig\source\repos\RG\WPF18\WPF18.2\obj\Debug\WPF18.2.pdb

@@ -1,0 +1,15 @@
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\bin\Debug\WPF17.exe.config
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\bin\Debug\WPF17.exe
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\bin\Debug\WPF17.pdb
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\MainWindow.baml
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.g.resources
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.Properties.Resources.resources
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.csproj.GenerateResource.cache
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.csproj.CoreCompileInputs.cache
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.exe
+C:\Users\nanig\source\repos\RG\WPF17\WPF17\obj\Debug\WPF17.pdb

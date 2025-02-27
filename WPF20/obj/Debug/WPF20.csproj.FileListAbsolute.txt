@@ -1,0 +1,15 @@
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\bin\Debug\WPF20.exe.config
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\bin\Debug\WPF20.exe
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\bin\Debug\WPF20.pdb
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.csproj.AssemblyReference.cache
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\MainWindow.g.cs
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\App.g.cs
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20_MarkupCompile.cache
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20_MarkupCompile.lref
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\MainWindow.baml
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.g.resources
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.Properties.Resources.resources
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.csproj.GenerateResource.cache
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.csproj.CoreCompileInputs.cache
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.exe
+C:\Users\nanig\source\repos\RG\WPF20\WPF20\obj\Debug\WPF20.pdb
